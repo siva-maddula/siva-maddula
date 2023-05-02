@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/siva-maddula?tab=repositories)
 
-- 💬 Ask me about **Java | Spring Boot | Microservices |** & **Kubernetes | AWS | PCF**
+- 💬 Ask me about **Java | Spring Boot | Microservices | Kubernetes | AWS | PCF**
 
 - 📫 How to reach me **siva-maddula@outlook.com**
 
